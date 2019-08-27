@@ -1,7 +1,10 @@
-body{
-    background: black;
-    font-family: "Segoe UI",sans-serif;
-    color: #ffffff;
-    min-width: 920px;
-    font-size: 16px;
+body {
+    background-color: lightgray;
+}
+table, tr, td {
+    padding: 5px;
+}
+.sv {
+    width: 50px;
+    text-align: center;
 }
