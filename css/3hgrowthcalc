@@ -12,3 +12,6 @@ table, tr, td {
     text-align: right;
     font-size: 11px;
 }
+.growthpad {
+    padding-left:30px;
+}
